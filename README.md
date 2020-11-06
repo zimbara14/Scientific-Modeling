@@ -1,3 +1,3 @@
 # Scientific-Modeling
 
-Modeling projects, both individual and required from university, written in Python.
+Modeling projects, both individual and as university assignments, written in Python.
