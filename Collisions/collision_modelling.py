@@ -3,6 +3,7 @@ import time
 import random
 
 is_elastic = True
+# if non elastic collision required, change is_elastic to False
 
 screen = turtle.Screen()
 SCREEN_WIDTH = 1000
